@@ -1,1 +1,1 @@
-# tg-word-every-day-bot
+# Dr. Pigeon bot
