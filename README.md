@@ -15,7 +15,9 @@ Check out [@DrPigeonBot](https://t.me/DrPigeonBot)
 
 ## Contributing
 
-// TODO: add soon
+There is no way to contribute here yet!
+Rules will be changed soon or later.
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning.
